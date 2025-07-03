@@ -1,9 +1,0 @@
-{
-  "gitIntegrationVersion": "v1",
-  "hash": "7ea46012dddd90c07b23fb16c2443839dd308eac",
-  "hashVersion": "v1",
-  "nodeIdToLabel": {
-    "0ad00930-bea8-4c04-93da-c08dfa57a34c": "get-random-number-a34c",
-    "1dcc4f38-0d0d-4a89-80b2-f795930ada37": "flow-output-da37"
-  }
-}
